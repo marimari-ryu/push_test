@@ -1,1 +1,5 @@
 プッシュの練習練習
+
+git hubのpush_testにつながっている
+
+https://github.com/marimari-ryu/push_test.git　→→→→これがpush_testのURL
