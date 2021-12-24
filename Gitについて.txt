@@ -249,3 +249,7 @@ $ git remote set-url origin [変更先のURL]
 
 
 $ git push -f origin master無理矢理PUSHできる
+
+
+$ git clone [クローン先のURL]
+
